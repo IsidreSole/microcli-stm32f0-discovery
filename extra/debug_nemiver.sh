@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# location of OpenOCD Board .cfg files (only used with 'make program')
+# location of OpenOCD Board .cfg files
 OPENOCD_BOARD_DIR=/usr/share/openocd/scripts/board
 
 # start xterm with openocd in the background
